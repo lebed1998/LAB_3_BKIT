@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\КПИ\LAB_3_2017\Laba_3\Laba_3\bin\Debug\Laba_3.exe.config
+C:\Users\1\Desktop\КПИ\LAB_3_2017\Laba_3\Laba_3\obj\Debug\Laba_3.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\КПИ\LAB_3_2017\Laba_3\Laba_3\bin\Debug\Laba_3.exe
+C:\Users\1\Desktop\КПИ\LAB_3_2017\Laba_3\Laba_3\bin\Debug\Laba_3.pdb
+C:\Users\1\Desktop\КПИ\LAB_3_2017\Laba_3\Laba_3\obj\Debug\Laba_3.exe
+C:\Users\1\Desktop\КПИ\LAB_3_2017\Laba_3\Laba_3\obj\Debug\Laba_3.pdb
